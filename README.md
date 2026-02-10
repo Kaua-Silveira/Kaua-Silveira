@@ -32,9 +32,7 @@
 </div>
 
 <br><br>
-<hr>
 
-<h3>📊 Estatísticas do GitHub</h3>
 
 
 
